@@ -14,3 +14,11 @@ S:\brosiusj\C#\C# Cengage Instructor\Data Files for students\Chapter03\Debugging
 S:\brosiusj\C#\C# Cengage Instructor\Data Files for students\Chapter03\DebuggingExercises\DebugThree1\FixedDebugThree1\obj\x86\Debug\FixedDebugThree1.Form1.resources
 S:\brosiusj\C#\C# Cengage Instructor\Data Files for students\Chapter03\DebuggingExercises\DebugThree1\FixedDebugThree1\obj\x86\Debug\FixedDebugThree1.Properties.Resources.resources
 S:\brosiusj\C#\C# Cengage Instructor\Data Files for students\Chapter03\DebuggingExercises\DebugThree1\FixedDebugThree1\obj\x86\Debug\FixedDebugThree1.csproj.GenerateResource.Cache
+C:\Users\am312792\Desktop\Chapter-3\DebuggingExercises\DebugThree1\FixedDebugThree1\obj\x86\Debug\FixedDebugThree1.exe
+C:\Users\am312792\Desktop\Chapter-3\DebuggingExercises\DebugThree1\FixedDebugThree1\bin\Debug\FixedDebugThree1.exe
+C:\Users\am312792\Desktop\Chapter-3\DebuggingExercises\DebugThree1\FixedDebugThree1\bin\Debug\FixedDebugThree1.pdb
+C:\Users\am312792\Desktop\Chapter-3\DebuggingExercises\DebugThree1\FixedDebugThree1\obj\x86\Debug\FixedDebugThree1.csprojResolveAssemblyReference.cache
+C:\Users\am312792\Desktop\Chapter-3\DebuggingExercises\DebugThree1\FixedDebugThree1\obj\x86\Debug\FixedDebugThree1.Form1.resources
+C:\Users\am312792\Desktop\Chapter-3\DebuggingExercises\DebugThree1\FixedDebugThree1\obj\x86\Debug\FixedDebugThree1.Properties.Resources.resources
+C:\Users\am312792\Desktop\Chapter-3\DebuggingExercises\DebugThree1\FixedDebugThree1\obj\x86\Debug\FixedDebugThree1.csproj.GenerateResource.Cache
+C:\Users\am312792\Desktop\Chapter-3\DebuggingExercises\DebugThree1\FixedDebugThree1\obj\x86\Debug\FixedDebugThree1.pdb

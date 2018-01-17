@@ -20,11 +20,11 @@ namespace FixedDebugThree1
         {
             double num1;
             double num2;
-            double product
+            double product;
             num1 = Convert.ToDouble(textBox1.Text);
-            num2 = Convert.ToDouble(textbox2.Text);
-            product = num1 + num2;
-            outputLabel.Text = String.Format("{0} times {1} is {2}", num1 num2 product);
+            num2 = Convert.ToDouble(textBox2.Text);
+            product = num1 * num2;
+            outputLabel.Text = String.Format("{0} times {1} is {2}", num1, num2, product);
         }
     }
 }
